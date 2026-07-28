@@ -1,0 +1,36 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A11"/>
+      <stop offset="100%" stop-color="#0D1420"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="150" rx="14" fill="url(#bgGrad)"/>
+  <rect x="1.5" y="1.5" width="897" height="147" rx="13" fill="none" stroke="#00FFC8" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="24" font-style="italic" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    "Nothing stays hidden from me, nothing."
+    <animate id="t1" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="0s;t5.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Agent No. 91 : Celeste
+    <animate id="t2" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t1.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Full-Stack Developer
+    <animate id="t3" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t2.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Information Broker
+    <animate id="t4" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t3.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    System Cracker &amp; Injector
+    <animate id="t5" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t4.end" fill="freeze"/>
+  </text>
+</svg>
