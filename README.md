@@ -120,9 +120,9 @@
 
 <div align="left">
 
-<a href="https://tiktok.com/@GANTI_USERNAME_TIKTOK"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://instagram.com/GANTI_USERNAME_IG"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://discord.com/users/GANTI_USER_ID_DISCORD"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://tiktok.com/@dim878872"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://instagram.com/dim.js"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/dimz0104_89447"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
