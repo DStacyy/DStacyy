@@ -4,7 +4,7 @@
 
 <br><br>
 
-<i>I learn and try many things purely out of curiosity — focused on developing<br>my own skills, without concerning myself with others.</i>
+<i>I learn and try many things purely out of curiosity, focused on developing<br>my own skills, without concerning myself with others.</i>
 
 </div>
 
@@ -13,11 +13,11 @@
 ## 🕵️ Who I Am
 
 - 🎓 Software Engineering student at **SMK Negeri Mojoagung**
-- 🎮 24/7 active game player
+- 🎮 24/7 active gamer
 - 🎧 Earphones always plugged in while working
 - 🐍 Still diving deeper and deeper into **Python**
 - 🚀 Aiming to make a real impact in modern IT development
-- 🔁 Learn, try, and fail — over and over, always improving
+- 🔁 Learn, try, and fail over and over, always improving
 
 <br>
 
