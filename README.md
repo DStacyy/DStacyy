@@ -2,7 +2,6 @@
 
 <img src="./assets/header-animation.svg" width="100%" alt="header animation" />
 
-<<<<<<< HEAD
 <br><br>
 
 <i>I learn and try many things purely out of curiosity — focused on developing<br>my own skills, without concerning myself with others.</i>
@@ -126,6 +125,4 @@
 <a href="https://discord.com/users/GANTI_USER_ID_DISCORD"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
-=======
-ntar gw update, masih valo
->>>>>>> f5f2b5be4b6e13ea42d147cd0c6dd4cf752cf4e9
+
