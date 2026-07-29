@@ -37,7 +37,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-☕_Java-007396?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 <td width="50%" valign="top">
@@ -46,7 +46,7 @@
 <br>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
 ![Reflex](https://img.shields.io/badge/-⚡_Reflex-6E56CF?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 </tr>
@@ -90,7 +90,7 @@
 ![CS 1.6](https://img.shields.io/badge/-🔫_CS_1.6-F5A623?style=for-the-badge)
 ![GTA IV](https://img.shields.io/badge/-🚗_GTA_IV-2E7D32?style=for-the-badge)
 ![GTA SA](https://img.shields.io/badge/-🚗_GTA_SA-2E7D32?style=for-the-badge)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@
 
 ![Valorant](https://img.shields.io/badge/-Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
 ![Honkai Impact 3rd](https://img.shields.io/badge/-✦_Honkai_Impact_3rd-9B59B6?style=for-the-badge)
-![+](https://img.shields.io/badge/-%2B-D3D3D3?style=for-the-badge)
+
 
 </td>
 </tr>
