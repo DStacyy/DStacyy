@@ -38,7 +38,6 @@
 ![Java](https://img.shields.io/badge/-☕_Java-007396?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -46,7 +45,13 @@
 <br>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![pip](https://img.shields.io/badge/-📦_pip-3776AB?style=for-the-badge)
+![BeautifulSoup4](https://img.shields.io/badge/-🍜_BeautifulSoup4-4B8BBE?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 </td>
 </tr>
@@ -61,7 +66,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -73,7 +77,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 </td>
 </tr>
@@ -91,7 +94,6 @@
 ![GTA IV](https://img.shields.io/badge/-🚗_GTA_IV-2E7D32?style=for-the-badge)
 ![GTA SA](https://img.shields.io/badge/-🚗_GTA_SA-2E7D32?style=for-the-badge)
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -100,7 +102,6 @@
 
 ![Valorant](https://img.shields.io/badge/-Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
 ![Honkai Impact 3rd](https://img.shields.io/badge/-✦_Honkai_Impact_3rd-9B59B6?style=for-the-badge)
-
 
 </td>
 </tr>
