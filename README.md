@@ -89,8 +89,8 @@
 ![Valorant](https://img.shields.io/badge/-Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
 ![Honkai Impact 3rd](https://img.shields.io/badge/-✦_Honkai_Impact_3rd-9B59B6?style=for-the-badge)
 ![Modern Warships](https://img.shields.io/badge/-🚢_Modern_Warships-4A6572?style=for-the-badge)
-![Umamusume](https://img.shields.io/badge/-🐎_Umamusume_Pretty_Derby-FF8FAB?style=for-the-badge)
 ![CS 1.6](https://img.shields.io/badge/-🔫_CS_1.6-F5A623?style=for-the-badge)
+![Umamusume](https://img.shields.io/badge/-🐎_Umamusume_Pretty_Derby-FF8FAB?style=for-the-badge)
 ![GTA IV](https://img.shields.io/badge/-🚗_GTA_IV-2E7D32?style=for-the-badge)
 ![GTA SA](https://img.shields.io/badge/-🚗_GTA_SA-2E7D32?style=for-the-badge)
 
