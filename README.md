@@ -94,6 +94,7 @@
 ![Umamusume](https://img.shields.io/badge/-🐎_Umamusume_Pretty_Derby-FF8FAB?style=for-the-badge)
 ![GTA IV](https://img.shields.io/badge/-🚗_GTA_IV-2E7D32?style=for-the-badge)
 ![GTA SA](https://img.shields.io/badge/-🚗_GTA_SA-2E7D32?style=for-the-badge)
+![Blue Archive](https://img.shields.io/badge/-📘_Blue_Archive-1D2C4E?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
@@ -103,6 +104,7 @@
 
 ![Valorant](https://img.shields.io/badge/-Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
 ![Honkai Impact 3rd](https://img.shields.io/badge/-✦_Honkai_Impact_3rd-9B59B6?style=for-the-badge)
+![Blue Archive](https://img.shields.io/badge/-📘_Blue_Archive-1D2C4E?style=for-the-badge)
 
 </td>
 </tr>
