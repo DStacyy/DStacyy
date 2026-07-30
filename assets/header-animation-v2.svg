@@ -1,0 +1,60 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A11"/>
+      <stop offset="100%" stop-color="#0D1420"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="150" rx="14" fill="url(#bgGrad)"/>
+  <rect x="1.5" y="1.5" width="897" height="147" rx="13" fill="none" stroke="#FF3B3B" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="24" font-style="italic" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    "Nothing stays hidden from me."
+    <animate id="t1" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="0s;t6.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="24" font-style="italic" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    "Nothing."
+    <animate id="t2" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t1.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Agent No. 91 : Celeste
+    <animate id="t3" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t2.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Full-Stack Developer
+    <animate id="t4" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t3.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    Information Broker
+    <animate id="t5" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t4.end" fill="freeze"/>
+  </text>
+
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#F4E4BC" text-anchor="middle" opacity="0">
+    System Cracker &amp; Injector
+    <animate id="t6" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="t5.end" fill="freeze"/>
+  </text>
+
+  <!-- Reticle / scope overlay: fades in/out in sync with each text change -->
+  <g stroke="#FF3B3B" stroke-width="1.5" fill="none" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3s" begin="0s" repeatCount="indefinite"/>
+
+    <!-- horizontal crosshair, gap left for text -->
+    <line x1="60" y1="75" x2="150" y2="75"/>
+    <line x1="750" y1="75" x2="840" y2="75"/>
+
+    <!-- vertical ticks top & bottom, avoiding text area -->
+    <line x1="450" y1="15" x2="450" y2="35"/>
+    <line x1="450" y1="115" x2="450" y2="135"/>
+
+    <!-- corner brackets -->
+    <polyline points="45,15 15,15 15,45" stroke="#FF3B3B"/>
+    <polyline points="855,15 885,15 885,45" stroke="#FF3B3B"/>
+    <polyline points="15,105 15,135 45,135" stroke="#FF3B3B"/>
+    <polyline points="885,105 885,135 855,135" stroke="#FF3B3B"/>
+  </g>
+</svg>

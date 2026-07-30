@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-animation.svg" width="100%" alt="header animation" />
+<img src="./assets/header-animation-v2.svg" width="100%" alt="header animation" />
 
 <br><br>
 
